@@ -26,7 +26,6 @@ body {
 
 .card {
     width: 90%;
-    border: 1px solid;
     border-radius: 20px;
     background-color: #fff;
 }
@@ -39,9 +38,10 @@ body {
 
 .description {
     padding: 1% 4%;
+    margin: 1% 1%;
 }
 
-.description h1 {
+.description>h1 {
     margin: 9% 0;
     font-weight: 900;
     font-size: 1.5rem;
@@ -62,8 +62,8 @@ body {
     justify-content: space-around;
     align-items: center;
     border-radius: 10px;
-    margin: 8% 2% 5%;
-    padding: 2% 1%;
+    margin: 8% 1% 5%;
+    padding: 6% 1%;
 }
 
 .plan {
@@ -83,4 +83,21 @@ body {
 .plan .price p {
     font-size: 1rem;
     color: grey;
+}
+
+.opt-change {
+    text-align: center;
+}
+
+.btn-proceed {
+    width: 100%;
+    background: hsl(245, 75%, 52%);
+    color: #fff;
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 700;
+    border-radius: 12px;
+    padding: 6% 7%;
+    margin: 4% 1%;
+    border-width: 0;
 }
