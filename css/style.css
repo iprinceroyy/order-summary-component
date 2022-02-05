@@ -29,6 +29,7 @@ body {
     width: 90%;
     border: 1px solid;
     border-radius: 20px;
+    background-color: #fff;
 }
 
 .hero img {
@@ -55,8 +56,20 @@ body {
 
 .grid {
     display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 8% 4% 5%;
+    border: 1px solid;
+    padding: 2% 1%;
 }
 
 .plan {
     display: flex;
 }
+
+.price h1 {
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.price p {}
