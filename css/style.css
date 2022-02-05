@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@300;900&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -16,17 +16,33 @@ body {
     background-size: contain;
 }
 
-.card {
-    width: 350px;
-    height: auto;
-    border: 1px solid;
-    border-width: 0;
-    margin: 3%;
-    padding-top: 0;
-    border-radius: 5px;
+.container {
     display: flex;
+    flex-direction: vertical;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin: 15% 7%;
 }
 
-.hero {
-    margin: 0;
+.card {
+    width: 80%;
+    border: 1px solid;
+    border-radius: 20px;
+}
+
+.hero img {
+    width: 100%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.description h1 {
+    margin: 9% 0;
+    font-weight: 900;
+    font-size: 1.5rem;
+}
+
+.description p {
+    font-size: 1rem;
 }
