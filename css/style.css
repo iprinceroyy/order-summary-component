@@ -108,7 +108,7 @@ a:active {
     padding: 5.5% 7%;
     margin: 4% 1%;
     border-width: 0;
-    box-shadow: 1.5px 3px 20px hsl(231, 42%, 74%);
+    box-shadow: 1.5px 4px 20px hsl(231, 42%, 74%);
 }
 
 .btn-proceed:active {
