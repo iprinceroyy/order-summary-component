@@ -131,3 +131,11 @@ a:active {
     cursor: pointer;
     border-width: 0;
 }
+
+@media only screen and (min-width:1440px) {
+    body {
+        background: hsl(225, 100%, 94%) url("../assets/images/pattern-background-desktop.svg");
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+}
