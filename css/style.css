@@ -107,7 +107,7 @@ a:active {
     font-weight: 700;
     border-radius: 12px;
     padding: 5.5% 7%;
-    margin: 4% 1%;
+    margin: 4% 2% 4% 0;
     border-width: 0;
     box-shadow: 1px 5px 20px hsl(231, 42%, 74%);
 }
