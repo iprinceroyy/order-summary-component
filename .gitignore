@@ -16,3 +16,5 @@
 .prettierignore
 
 .vscode
+README.md
+style-guide.md
