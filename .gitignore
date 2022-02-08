@@ -16,6 +16,6 @@
 .prettierignore
 
 ./vscode
-/README.md
+/README1.md
 /style-guide.md
 /.gitignore.txt
