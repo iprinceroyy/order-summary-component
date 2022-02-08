@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://github.com/iprinceroyy/order-summary-component)
--   Live Site URL: [Add live site URL here](https://ordercomponent-card.netlify.app/)
+-   Solution URL: [Solution URL here](https://github.com/iprinceroyy/order-summary-component)
+-   Live Site URL: [Live site URL here](https://ordercomponent-card.netlify.app/)
 
 ### Built with
 
