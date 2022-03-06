@@ -1,6 +1,4 @@
-# Frontend Mentor - Order summary card solution
 
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-card-ZR0PM3_Wk). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
